@@ -1,1 +1,8 @@
-a
+{
+  "name": "ADALovelacePool APEX",
+  "ticker": "ADAL1",
+  "description": "Your First Choice For Staking",
+  "homepage": "https://adalovelacepool.com",
+  "nonce": "1737470423",
+  "extended": "https://raw.githubusercontent.com/Bmtxs/sp/master/ext_adalo.json"
+}
